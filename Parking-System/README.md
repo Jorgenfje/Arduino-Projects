@@ -4,7 +4,7 @@ Developed by Jørgen A. Fjellstad - April 2024
 ____________________________________________________________________________________________________________________________________________________
 
 An Arduino-based parking assist system using an **ultrasonic sensor**, **RGB LED**, and **8 status LEDs** to visualize distance to nearby obstacles.  
-Designed to simulate a real car parking sensor — showing distance with color and LED intensity.
+Designed to simulate a real car parking sensor, showing distance with color and LED intensity.
 
 ____________________________________________________________________________________________________________________________________________________
 
