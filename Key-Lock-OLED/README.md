@@ -1,6 +1,7 @@
 ### 🔐 Key-Lock-OLED
 Developed by Jørgen A. Fjellstad - May 2024
 
+_______________________________________________________________________________________________
 
 An Arduino-based digital keypad lock with OLED display, LED indicators, and buzzer alerts.  
 Users can enter a 4-digit code, verify access, and update the PIN using a button.  
