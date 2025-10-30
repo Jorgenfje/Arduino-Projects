@@ -1,6 +1,7 @@
 ### 🔢 Analog Keypad Reader (3-Input)
 Developed by Jørgen A. Fjellstad - 2025
 
+______________________________________________________________________________________________________________________
 
 A simple Arduino project that reads a **12-button keypad** using only **three analog inputs** instead of digital pins.  
 Each key is uniquely identified by voltage ranges (analog thresholds) and displayed in the **Serial Monitor**.  
