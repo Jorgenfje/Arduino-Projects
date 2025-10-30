@@ -1,6 +1,7 @@
 ### Digital Alarm Clock ⏰  
 Developed by Jørgen A. Fjellstad - April 2024
 
+_______________________________________________________________________________________________________________________________________________
 
 ### 🔧 Overview
 This project demonstrates a **digital alarm clock** built with Arduino, featuring an LCD display, piezo buzzer, and three-button control system.  
